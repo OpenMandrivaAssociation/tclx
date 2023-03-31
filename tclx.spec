@@ -8,7 +8,7 @@
 Name:		tclx
 Epoch:		0
 Version:	8.4.1
-Release:	%mkrel 12
+Release:	13
 Summary:	Tcl/Tk extensions for POSIX systems
 License:	BSD
 Group:		System/Libraries
