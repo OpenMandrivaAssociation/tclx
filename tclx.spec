@@ -12,7 +12,7 @@ Release:	13
 Summary:	Tcl/Tk extensions for POSIX systems
 License:	BSD
 Group:		System/Libraries
-URL:		http://tclx.sourceforge.net/
+URL:		https://tclx.sourceforge.net/
 Source0:	http://prdownloads.sourceforge.net/tclx/tclx%{version}.tar.bz2
 Patch1:		tclx-8.4-varinit.patch
 Patch3:		tclx-8.4-man.patch
