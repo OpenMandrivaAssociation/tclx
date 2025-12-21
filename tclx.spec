@@ -16,6 +16,11 @@ URL:		https://tclx.sourceforge.net/
 Source0:	http://prdownloads.sourceforge.net/tclx/tclx%{version}.tar.bz2
 Patch1:		tclx-8.4-varinit.patch
 Patch3:		tclx-8.4-man.patch
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	pkgconfig(tcl)
 BuildRequires:	pkgconfig(tk)
 BuildRequires:	groff
